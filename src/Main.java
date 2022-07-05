@@ -1,7 +1,6 @@
 package src;
 
 import src.command.CommandReader;
-import src.command.executor.CommandExecutor;
 
 public class Main {
     public static void main(String[] args) {
